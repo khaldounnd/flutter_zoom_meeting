@@ -34,7 +34,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 34
-    namespace 'com.example.flutter_zoom_sdk'
+    namespace 'com.zoualfkar.flutter_zoom'
 
 
     sourceSets {
